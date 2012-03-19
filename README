@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3972
+
+Repository: https://github.com/kight/CSS3-syntax-file-for-vim
+
+1.Compatible with default css syntax in vim.
+2.Support vendor prefix highlight.
+3.Compatible with vundle
+4.One-click installation.
+5.CSS 3 Properties which do not have any browser support will -NOT- be highlighted
+
